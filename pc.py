@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
 
-        rig_identiier = "koske01"
+        rig_identiier = "koskeDATA"
 
 
 
