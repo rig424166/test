@@ -460,7 +460,7 @@ def loadConfig():
         else:
             algorithm = "1"
 
-        efficiency = "95"
+        efficiency = "90"
 
         threadcount = "8"
 
