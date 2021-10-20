@@ -489,7 +489,7 @@ def loadConfig():
         if threadcount == "":
             threadcount = cpu_count()
         elif int(threadcount) > int(8):
-            threadcount = 8
+            threadcount = 4
             print(
                 Style.RESET_ALL
                 + Style.BRIGHT
